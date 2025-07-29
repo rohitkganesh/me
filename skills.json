@@ -13,6 +13,10 @@
         "icon": "https://img.icons8.com/?size=48&id=40670&format=png&color=000000"
     },
     {
+        "name": "CSharp",
+        "icon": "https://img.icons8.com/?size=48&id=45490&format=png&color=000000"
+    },
+    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
@@ -47,6 +51,10 @@
     {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name" : ".NET",
+        "icon" : "https://img.icons8.com/?size=48&id=o0pte3XTuPWi&format=png&color=000000"
     },
     {
         "name": "jQuery",
